@@ -1,4 +1,5 @@
 # BazePodataka2021-2022
 
-Hvala! 
-@vasic40
+## Colaborators
+- Petar Stamenić
+- Milan Marinković
